@@ -1,0 +1,63 @@
+main {
+  text-align: center;
+  color: ;
+  background-color: #fff4a3;
+  
+
+}
+h1 { 
+  color: #7c795d;
+ font-family: 'Trocchi', serif;
+  font-size: 45px;
+   font-weight: normal;
+    line-height: 48px; 
+    margin: 0;
+    color: #231900; 
+    font-family: 'Helvetica Neue', sans-serif;
+    weight: bold;
+     }
+ section{
+   color: linear-gradient(#FFCC00, #fff4a3)
+ }
+
+img {
+  display: block;
+  max-width: 100%;
+  height: ;
+  margin:  
+}
+figcaption{
+   color: #7c795d;
+ font-family: 'Trocchi', serif;
+  font-size: 15px;
+   font-weight: normal;
+    margin: 0;; background: #fff4a3; text-decoration: none;  ;
+  max-width: 100%
+}
+}
+
+#img-div{
+  padding: 50
+}
+
+
+
+h2{
+  color: #7c795d; 
+  font-family: 'Trocchi', serif; 
+    font-size: 25px;
+  font-weight: bold; 
+  
+  margin:35;
+}
+
+#facts {
+
+  color: #7c795d;
+ font-family: 'Trocchi', serif;
+  font-size: 15px;
+   font-weight: normal;
+    margin: 0;; background: #fff4a3; text-decoration: none;  ;
+  max-width: 100%
+}
+
